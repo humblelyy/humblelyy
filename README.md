@@ -30,7 +30,7 @@
 
 ## This is me :)
 
-Hi, I'm **Mahesh**, the person behind **HUMBLE**. I'm a video editor and developer who likes mixing motion design, creative tools and web development.
+Hi, I'm **Mahesh Madhav**, the person behind **HUMBLE**. I'm a video editor and developer who likes mixing motion design, creative tools and web development.
 
 - 🎬 I work with **After Effects, Premiere Pro and Photoshop**.
 - 💻 I build with **HTML, CSS, JavaScript, React, Python and MySQL**.
