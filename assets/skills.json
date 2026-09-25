@@ -1,0 +1,12 @@
+{
+  "title": "HUMBLE Skill Radar",
+  "axes": [
+    {"label":"After Effects","value":94},
+    {"label":"Video Editing","value":92},
+    {"label":"UI / UX","value":82},
+    {"label":"React / Vite","value":78},
+    {"label":"Python","value":74},
+    {"label":"Creative Dev","value":86},
+    {"label":"Motion Design","value":90}
+  ]
+}

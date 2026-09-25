@@ -1,0 +1,8 @@
+{
+  "projects": [
+    {"repo":"HumbleStudioTool","description":"HUMBLE creative toolkit and Discord Rich Presence workflow for After Effects."},
+    {"repo":"HUMBLE-ae-Downgrader","description":"HUMBLE tool for working with After Effects project and plugin compatibility across versions."},
+    {"repo":"HumbleStudio","description":"HUMBLE Studio — a collection of creative tools for editors and creators."},
+    {"repo":"campus-connect","description":"Campus Connect — a complete college digital hub with notices, complaints, attendance, canteen and placements."}
+  ]
+}
