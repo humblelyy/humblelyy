@@ -45,7 +45,21 @@ Hi, I'm **Mahesh Madhav**, the person behind **HUMBLE**. I'm a video editor and 
 
 ## My Perfect Stack
 
-<img src="https://skillicons.dev/icons?i=ae,pr,ps,blender,html,css,js,react,python,mysql,git,github,vscode,figma,chatgpt,claude,powerbi&perline=7" alt="My Tech Stack">
+<img src="https://skillicons.dev/icons?i=ae,pr,ps,blender,html,css,js,react,python,mysql,git,github,vscode,figma&perline=7" alt="My Tech Stack">
+
+<br>
+
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="45" alt="OpenAI" title="ChatGPT">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/claude/D97757" height="45" alt="Claude" title="Claude Code">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45" alt="Power BI" title="Power BI">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="45" alt="OpenAI Codex" title="Codex">
+
+<br>
+
+**ChatGPT · Claude Code · Power BI · OpenAI Codex**
 
 </div>
 
