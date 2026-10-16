@@ -34,7 +34,7 @@ Hi, I'm **Mahesh Madhav**, the person behind **HUMBLE**. I'm a video editor and 
 
 - 🎬 I work with **After Effects, Premiere Pro and Photoshop**.
 - 💻 I build with **HTML, CSS, JavaScript, React, Python and MySQL**.
-- 🛠️ I build tools for editors, including **HUMBLE Studio** and **HUMBLE AE Downgrader**.
+- 🛠️ I build tools for editors, in **HUMBLE Studio** .
 - 🎓 Diploma in Computer Engineer; currently studying **Data Analytics**.
 - 🚀 I like turning small ideas into things people can actually use.
 - 🌐 Portfolio: **[maheshmadhav.com](https://maheshmadhav.vercel.app/)**
