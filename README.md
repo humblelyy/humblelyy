@@ -42,11 +42,10 @@ Hi, I'm **Mahesh Madhav**, the person behind **HUMBLE**. I'm a video editor and 
 <br>
 
 <div align="center">
-<div align="center">
 
 ## My Perfect Stack
 
-<img src="https://skillicons.dev/icons?i=ae,pr,ps,blender,html,css,js,react,python,mysql,git,github,vscode,figma&perline=7" alt="My Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=ae,pr,ps,blender,unreal,html,css,js,react,python,mysql,git,github,vscode,figma&perline=7" alt="My Tech Stack"/>
 
 <br><br>
 
