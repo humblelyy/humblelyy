@@ -49,13 +49,13 @@ Hi, I'm **Mahesh Madhav**, the person behind **HUMBLE**. I'm a video editor and 
 
 <br><br>
 
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="48" alt="ChatGPT" title="ChatGPT">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude Code" title="Claude Code">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" title="Power BI">
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="48" alt="OpenAI Codex" title="OpenAI Codex">
+<img src="https://cdn.simpleicons.org/chatgpt/FFFFFF" width="48" height="48" alt="ChatGPT">
+&nbsp;
+<img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code">
+&nbsp;
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI">
+&nbsp;
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI Codex">
 
 </div>
 
