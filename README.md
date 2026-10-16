@@ -42,20 +42,26 @@ Hi, I'm **Mahesh Madhav**, the person behind **HUMBLE**. I'm a video editor and 
 <br>
 
 <div align="center">
+<div align="center">
 
 ## My Perfect Stack
 
-<img src="https://skillicons.dev/icons?i=ae,pr,ps,blender,html,css,js,react,python,mysql,git,github,vscode,figma&perline=7" alt="My Perfect Stack">
+<img src="https://skillicons.dev/icons?i=ae,pr,ps,blender,html,css,js,react,python,mysql,git,github,vscode,figma&perline=7" alt="My Tech Stack"/>
 
 <br><br>
 
-<img src="https://cdn.simpleicons.org/chatgpt/FFFFFF" width="48" height="48" alt="ChatGPT">
-&nbsp;
-<img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude Code">
-&nbsp;
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI">
-&nbsp;
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI Codex">
+<a href="https://chatgpt.com/">
+  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+</a>
+<a href="https://claude.ai/code">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
+</a>
+<a href="https://powerbi.microsoft.com/">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</a>
+<a href="https://openai.com/codex/">
+  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
+</a>
 
 </div>
 
