@@ -45,25 +45,19 @@ Hi, I'm **Mahesh Madhav**, the person behind **HUMBLE**. I'm a video editor and 
 
 ## My Perfect Stack
 
-<img src="https://skillicons.dev/icons?i=ae,pr,ps,blender,html,css,js,react,python,mysql,git,github,vscode,figma&perline=7" alt="My Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=ae,pr,ps,blender,html,css,js,react,python,mysql,git,github,vscode,figma&perline=7" alt="My Perfect Stack">
 
 <br><br>
 
-<a href="https://chatgpt.com/">
-  <img src="https://img.shields.io/badge/ChatGPT-OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-</a>
-<a href="https://claude.ai/code">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
-</a>
-<a href="https://powerbi.microsoft.com/">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-</a>
-<a href="https://openai.com/codex/">
-  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex"/>
-</a>
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="48" alt="ChatGPT" title="ChatGPT">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude Code" title="Claude Code">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" title="Power BI">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" height="48" alt="OpenAI Codex" title="OpenAI Codex">
 
 </div>
-
 
 ---
 
