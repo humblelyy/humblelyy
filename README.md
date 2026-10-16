@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/mahesh-madhav-602683357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/_humble.y_/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=FF6FAE" alt="Instagram"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@humbleae"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF6FAE" alt="YouTube"></a>&nbsp;&nbsp;
-<a href="https://humblepf.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=FF6FAE" alt="Portfolio"></a>
+<a href="https://maheshmadhav.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=FF6FAE" alt="Portfolio"></a>
 
 <br>
 
