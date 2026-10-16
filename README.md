@@ -59,8 +59,6 @@ Hi, I'm **Mahesh Madhav**, the person behind **HUMBLE**. I'm a video editor and 
 
 <br>
 
-**ChatGPT · Claude Code · Power BI · OpenAI Codex**
-
 </div>
 
 ---
